@@ -203,3 +203,15 @@ Me permite criar nova maneiras de trabalhar com ele
     'htmlmin'
   ]);
 ```
+
+
+#####Link do Video
+[Criando Web Apps com AngularJS](https://www.youtube.com/watch?v=GRTBSmm-dlU)
+
+#####Slides 
+[Slides](https://docs.google.com/presentation/d/1u4EhvC_5_PlVnHaNJLd6J0LxQDjKVFtfJX6fcKHWsoM/edit?usp=sharing)
+
+#####Projeto do Video
+[Código fonte]
+(https://github.com/igorcosta/webappshangout)
+
